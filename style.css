@@ -115,7 +115,7 @@ a:hover::after {
 .nft-img img {
 		width: 100%;
 		aspect-ratio: 1/1;
-		border-radius: var(--brdr-rad);;
+		border-radius: var(--brdr-rad);
 }
 .price-time {
 		display: flex;
@@ -130,7 +130,7 @@ a:hover::after {
 		gap: 0.35em;
 }
 .price a {
-		color: var(--cyan)
+		color: var(--cyan);
 }
 .price a:hover {
 		font-size: 105%;
